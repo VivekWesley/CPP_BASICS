@@ -13,7 +13,7 @@ using namespace std;
 int main()
 {
     int n;
-    cout << "enter a number";
+    cout << "enter a number: ";
     cin >> n;
 
     int count = 1;
