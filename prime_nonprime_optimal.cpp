@@ -9,7 +9,7 @@
 // enter a number:
 // 23
 // prime
-// _________________
+// ________________
 
 #include <iostream>
 #include <cmath>
@@ -22,7 +22,7 @@ int main()
     cout << "enter a number: " << endl;
     cin >> n;
 
-    for (int i = 2; i < sqrt(n); i++)
+    for (int i = 2; i <= sqrt(n); i++)
     {
         if (n % i == 0)
         {
