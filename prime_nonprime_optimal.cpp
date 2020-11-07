@@ -9,7 +9,7 @@
 // enter a number:
 // 23
 // prime
-// ________________
+// _________________
 
 #include <iostream>
 #include <cmath>
