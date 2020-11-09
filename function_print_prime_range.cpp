@@ -1,6 +1,7 @@
 // function to print prime range
 
 // sample output:
+
 // pick a starting point
 // 10
 // pick ending point
