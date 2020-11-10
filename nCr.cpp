@@ -1,4 +1,4 @@
-// binary coefficient nCr:
+// binomial coefficient nCr:
 
 // sample output:
 // enter 'n' value:
