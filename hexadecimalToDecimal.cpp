@@ -36,7 +36,6 @@ int main()
     cout << "enter a value: " << endl;
     cin >> n;
     cout << hexaDecimalToDecimal(n) << endl;
-    ;
 
     return 0;
 }
