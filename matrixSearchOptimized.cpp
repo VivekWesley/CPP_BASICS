@@ -32,7 +32,7 @@ int main()
     cout << "enter target element: " << endl;
     cin >> target;
 
-    int r = 1;
+    int r = 0;
     int c = m - 1;
     bool found = false;
     while (r < n and c >= 0)
