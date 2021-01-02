@@ -1,21 +1,28 @@
 # CPP_BASICS
 
----
-
 Basic C++ Programs [Concentrated on fundamentals of CPP programming]
 
 # TOPICS:
 
-1. conditional statement [if - else]
+### 1 CONDITIONAL STATEMENT [if - else]
 
-1. loops
+### 2 LOOPS
 
-   1. for
-   1. while
-   1. do while
+   - for
+   - while
+   - do while
 
-1. jump statements
-   1. break
-   1. continue
+### 3 JUMP Statements
+   - break
+   - continue
 
----
+### 4 FUNCTIONS
+
+### 5 BIT MANIPULATION
+   - Set Bit
+   - Get Bit
+   - Clear Bit
+   - Update Bit
+   - #### BIT CHALLENGES
+      - Check whether the given number is power of 2 or not
+ 
