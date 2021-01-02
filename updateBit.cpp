@@ -1,12 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int updateBit(int n, int pos, int value)
-{
-    int mask = ~(1 << pos);
-    int clearedBit = (n & mask);
-    return (clearedBit | (value << pos));
-}
+
 
 int main()
 {
