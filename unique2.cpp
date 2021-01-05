@@ -1,4 +1,4 @@
-// find 2 unique numbers from the array
+// find 2 unique numbers from the array using bit manipulation
 
 // sample output:
 // 1 2 3 1 2 3 5 7
