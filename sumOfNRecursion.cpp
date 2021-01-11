@@ -5,6 +5,7 @@
 // 4
 // ans: 10
 
+// #1
 #include <iostream>
 using namespace std;
 
@@ -26,6 +27,19 @@ int main()
     cin >> n;
 
     cout << "ans: " << sumOfN(n) << endl;
+
+    return 0;
+}
+
+// #2
+
+#include <iostream>
+using namespace std;
+
+int sumOfNRecursion
+
+int main()
+{
 
     return 0;
 }
